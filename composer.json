@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "^v5.7.1"
+  }
+}
